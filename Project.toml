@@ -1,0 +1,11 @@
+name = "GeneralizedLambdaDistribution"
+uuid = "385806b0-cb08-11e8-0bb9-5101b2b6e808"
+authors = ["actdeonovic <benjamin.deonovic@act.org>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+NLopt = "76087f3c-5699-56af-9a33-bf431cd00edd"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
